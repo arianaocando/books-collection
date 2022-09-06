@@ -1,4 +1,4 @@
-# Ebooks-collection
+# books-collection
 
 Bienvenido a mi biblioteca de libros chidos que me ha costado un buen encontrar con el paso de los años.
 
