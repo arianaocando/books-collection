@@ -11,6 +11,6 @@ https://github.com/sdcuike/Clean-Code-Collection-Books
 https://thevalleyofcode.com/
 
 
-Chismeate esto tambien:
+Chismeate esto también:
 
 https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/tree/master/Algorithms
